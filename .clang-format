@@ -1,0 +1,11 @@
+BasedOnStyle: WebKit
+ColumnLimit: 120
+AlignAfterOpenBracket: AlwaysBreak
+BinPackArguments: false
+BinPackParameters: false
+AlwaysBreakAfterDefinitionReturnType: None
+AlwaysBreakAfterReturnType: None
+PenaltyReturnTypeOnItsOwnLine: 10000
+AllowShortFunctionsOnASingleLine: Empty
+AlignConsecutiveMacros: false
+AlwaysBreakTemplateDeclarations: Yes
